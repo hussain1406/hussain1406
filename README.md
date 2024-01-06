@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I am Muhammad Hussain 👋!
+
+### My Github Stats
+![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussain1406)
 
 <!--
 **hussain1406/hussain1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
